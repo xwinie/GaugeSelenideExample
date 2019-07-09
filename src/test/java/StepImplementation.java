@@ -3,7 +3,7 @@ import com.codeborne.selenide.Selectors;
 import com.codeborne.selenide.Selenide;
 import com.thoughtworks.gauge.Step;
 
-public class StepImplementation {
+public class StepImplementation extends Throwable{
 
     @Step("access <url> in browser.")
     public void accessUrl(String url) {
