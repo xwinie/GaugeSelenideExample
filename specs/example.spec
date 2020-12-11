@@ -4,7 +4,7 @@ Search by Bing.com
 When search selenide by Bing.com, then shows results.
 ---------------------------
 
-* access "http://www.bing.com/" in browser.
+* access "https://www.bing.com/" in browser.
 
 * input "selenide" in "#sb_form_q" element.
 
